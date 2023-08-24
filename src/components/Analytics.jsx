@@ -1,5 +1,5 @@
 import React from "react";
-import Laptop from "../assets/laptop.jpg";
+import Laptop from "../assets/laptop.jpg"; 
 const Analytics = () => {
   return (
     <div className="w-full bg-white py-16 px-4">
